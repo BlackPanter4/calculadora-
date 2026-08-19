@@ -1,2 +1,10 @@
-# calculadora-
-Operaciones básicas 
+# Calculadora V34
+Proyecto en Python ejecutado desde Android TAB
+
+Funciones: suma, resta, multiplicación, división con validación de errores.
+
+## Como ejecutar
+python calculadora_v34.py
+
+## Captura
+Foto de ejecución en celular (TAB app) 
